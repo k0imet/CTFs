@@ -19,16 +19,16 @@ i decided to use ``subfinder`` to enumerate subdomains hosted on that domain
 following the link starting with 6a....
 
 <a href="6a7573744354467b633372545f6c34616b735f6f3070737d.web.jctf.pro">challenge</a>
-![look.png](results.png)
+![look.png](look.png)
 
 hmmm! no flag yet! 
 
 looking again at the domain name,i decided to decode the hex to text using CyberChef 
 and we get the flag 
-![CyberChef.png](flag.png)
+![CyberChef.png](CyberChef.png)
 ....
 and there's our flag 
 
-##justCTF{c3rT_l4aks_o0ps}
+## justCTF{c3rT_l4aks_o0ps}
 
 you can use <a href="crt.sh">crt.sh</a> to get the domain
