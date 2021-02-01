@@ -14,7 +14,7 @@ reading the description again the challenge is under ``web`` category to which a
 with the domain as now our target 
 i decided to use ``subfinder`` to enumerate subdomains hosted on that domain 
 
-![subfinder.png](results.png)
+![subfinder.png](subfinder.png)
 
 following the link starting with 6a....
 
