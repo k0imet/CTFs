@@ -1,2 +1,4 @@
-# CTFs
-CTF Notes,Scripts and Writeups
+# CTF STUFF
+- [CTF Notes]
+- [Scripts] 
+- [Writeups](./CTF-Writeups)
