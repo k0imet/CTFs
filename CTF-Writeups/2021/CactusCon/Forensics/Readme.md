@@ -113,4 +113,4 @@ further reads :
 
 thank you for taking time to read
 for questions and clarifications contact me on twitter 
-<a href="twitter.com/k0imet_">@k0imet_</a>
+<a href="https://twitter.com/k0imet_">@k0imet_</a>
