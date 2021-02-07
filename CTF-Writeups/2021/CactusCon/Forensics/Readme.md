@@ -1,4 +1,4 @@
-#The Sleuth Fairy
+# The Sleuth Fairy
 ###### tags: `ctf` `cactuscon` `forensics` 
 ##### solves 11
 ### Challenge Description
@@ -78,6 +78,7 @@ we get our flag under
 > flag : {gabe_pls_wall3t}
 
 PS
+
 <a href="https://medium.com/@migokedem/malware-embedded-in-microsoft-office-documents-dde-exploit-macroless-4f197387ddbd">https://medium.com/@migokedem/malware-embedded-in-microsoft-office-documents-dde-exploit-macroless-4f197387ddbd</a>
 
 <a href="https://zeltser.com/malicious-code-inside-office-documents">https://zeltser.com/malicious-code-inside-office-documents</a>
@@ -104,10 +105,12 @@ runnings strings on it revealed the flag
 
 
 further reads :
+
 <a href="https://www.zdnet.com/article/microsoft-beware-this-massive-phishing-campaign-using-malicious-excel-macros-to-hack-pcs/">https://www.zdnet.com/article/microsoft-beware-this-massive-phishing-campaign-using-malicious-excel-macros-to-hack-pcs/</a>
 
 <a href="https://digit.fyi/microsoft-warns-of-huge-phishing-campaign-using-microsoft-excel/">https://digit.fyi/microsoft-warns-of-huge-phishing-campaign-using-microsoft-excel/</a>
 
 
 thank you for taking time to read
-for questions and clarifications contact me on twitter <a href="twitter.com/k0imet_">@k0imet_</a>
+for questions and clarifications contact me on twitter 
+<a href="twitter.com/k0imet_">@k0imet_</a>
