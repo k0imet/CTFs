@@ -318,9 +318,6 @@ https://defuse.ca/b/sOOqp4UunTdD0oUjidJFlz                                      
 
 following the links gives us an encrypted pastebin which needs a password to reveal the flag 
 .....
-![](pastebin.png)
-
-> flag : Trollcat{secret_hidden_0nn_th3_1ntern3t}
 
 looking back at the `pstree` results we can see  `lsass.exe`
 
@@ -345,6 +342,11 @@ hashcat -m 1000 /usr/share/wordlists/rockyou.txt --force
 ```
 cracking the NTLM hash for user `WhiteWolf` reveals the password as `abracadabra`
 using the password we can now decrypt our encrypted pastebin to reveal the flag 
+
+![](pastebin.png)
+
+> flag : Trollcat{secret_hidden_0nn_th3_1ntern3t}
+
 
 alternatively you can use mimikatz plugin 
 
