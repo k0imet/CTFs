@@ -312,10 +312,8 @@ volatility lacks an inbuilt plugin for firefox and chrome so we will use a third
 volatility --plugins=volatility-pluginss/ -f evilpepo.vmem --profile=Win7SP1x64  chromehistory
 Volatility Foundation Volatility Framework 2.6
 Index  URL
-
 https://defuse.ca/b/sOOqp4UunTdD0oUjidJFlz                                       Defuse Security's Encrypted Pastebin                                                  2     1 2021-01-12 08:23:00.706346        N/A       
-
-    ```
+```
 > snipped for readability
 
 following the links gives us an encrypted pastebin which needs a password to reveal the flag 
@@ -339,7 +337,7 @@ Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
 WhiteWolf:1000:aad3b435b51404eeaad3b435b51404ee:2e6a7cf5aabb33a044684dd9c97e88a7:::
 ```
 
-
+user WhiteWolf since he was the author
 
 ```
 echo "2e6a7cf5aabb33a044684dd9c97e88a7"
@@ -351,6 +349,8 @@ using the password we can now decrypt our encrypted pastebin to reveal the flag
 alternatively you can use mimikatz plugin 
 
 <a href="https://medium.com/@ali.bawazeeer/using-mimikatz-to-get-cleartext-password-from-offline-memory-dump-76ed09fd3330">https://medium.com/@ali.bawazeeer/using-mimikatz-to-get-cleartext-password-from-offline-memory-dump-76ed09fd3330</a>
+
+
 # Mr_evilpepo_3
 
 
