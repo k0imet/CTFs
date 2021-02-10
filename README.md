@@ -1,4 +1,4 @@
 # CTF STUFF
-- [AllThings](./CTF-BIBLE)
+- [CTF-BIBLE)(./CTF-BIBLE)
 - [Scripts] 
 - [Writeups](./CTF-Writeups)
