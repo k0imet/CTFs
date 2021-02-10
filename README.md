@@ -1,4 +1,4 @@
 # CTF STUFF
-- [CTF Notes]
+- [AllThingsCTF](./AllThingsCTF)
 - [Scripts] 
 - [Writeups](./CTF-Writeups)
