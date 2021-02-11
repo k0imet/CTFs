@@ -11,10 +11,22 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 
 #### CTF Writeups 
+- [2018](#2018)
+
+- [2019](#2019)
+
+- [2020](#2020)
+
+- [2021](#2021)
+
+
+### 2018
 
 - <a href="https://qiita.com/no1zy_sec/items/03b8f335e84995fec3e3">noizy_sec : HamaCTF xmlvalidator writeup</a>
 
 - <a href="https://blog.cal1.cn/post/RealWorldCTF%20PrintMD%20writeup">cal1 : RealWorldCTF 2018 PrintMD</a>
+
+### 2019
 
 - <a href="https://github.com/10secTW/ctf-writeup/blob/master/2019/ASIS%20CTF%20quals/Web%20-%20Baby%20SSRF.md">10secTW : Baby SSRF ASIS QUALS 2019</a>
 
@@ -34,6 +46,8 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - <a href="https://github.com/De1ta-team/De1CTF2019/tree/master/writeup/web/SSRF%20Me">De1ta-team : De1CTF2019/SSRF_ME</a>
 
+### 2020
+
 - <a href="https://r3billions.com/writeup-split-second/">r3billions : split-second Nullcon 2020/</a>
 
 - <a href="http://blog.zeddyu.info/2020/04/20/Plaid-CTF-2020-Web-1/">zeddyu : Plaid-CTF-2020-Web-1</a>
@@ -48,13 +62,11 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - <a href="http://jackson-t.ca/metasploitctf-2020-rmf.html">jackson-t : MetasploitCTF 2020</a>
 
-
-
 - <a href="https://hackmd.io/@mystiz/twctf-2020-writeup#urlcheck-v1-Web-98-points">mystiz : urlcheck-v1 TokyoWesterns 2020</a>	
 
 - <a href="https://hackmd.io/@mystiz/twctf-2020-writeup#urlcheck-v2-Web-128-points">mystiz : urlcheck-v2 TokyoWesterns 2020 </a>
 
-
+### 2021
 
 #### Other interesting reads
 
