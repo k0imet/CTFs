@@ -1,4 +1,4 @@
 # Table of Contents 
   - [SSRF](./SSRF)
-  - [SSTI](.SSTI)
+  - [SSTI](./SSTI)
   - [XSS](./XSS)
