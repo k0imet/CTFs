@@ -49,7 +49,7 @@ Jeopardy Main Categories:
 #### Misc
 Anything other than the mentioned categories, and the difficulty will always vary.
 
-<a href="https://medium.com/bugbountywriteup/intro-to-ctfs-164a03fb9e60">Full Descrption</a>
+<a href="https://medium.com/bugbountywriteup/intro-to-ctfs-164a03fb9e60">Full Description</a>
 
 
 # Where to Play CTFs
@@ -68,7 +68,7 @@ Anything other than the mentioned categories, and the difficulty will always var
 
 - <a href="https://vulnhub.com">vulnhub.com</a>
 
-- <a href="https://cyberspace.co.ke">cyberscpace.co.ke</a>
+- <a href="https://cyberspace.co.ke">cyberspace.co.ke</a>
 
 - <a href="https://tryhackme.com">tryhackme.com</a>
 
