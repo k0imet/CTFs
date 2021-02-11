@@ -1,4 +1,4 @@
 # Table of Contents 
   - [SSRF](./SSRF)
-  - [INJECTIONS](.INJECTIONS)
+  - [SSTI](.SSTI)
   - [XSS](./XSS)
