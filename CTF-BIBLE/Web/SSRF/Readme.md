@@ -19,12 +19,18 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - [2021](#2021)
 
+- [other-reads](#other-interesting-reads)
+
 
 ### 2018
 
 - <a href="https://qiita.com/no1zy_sec/items/03b8f335e84995fec3e3">noizy_sec : HamaCTF xmlvalidator writeup</a>
 
 - <a href="https://blog.cal1.cn/post/RealWorldCTF%20PrintMD%20writeup">cal1 : RealWorldCTF 2018 PrintMD</a>
+
+- <a href="https://fireshellsecurity.team/nonamectf-convert/">fireshell : nonamectf-convert</a>
+
+- <a href="https://spyclub.tech/2018/10/08/2018-10-08-inctf2018-web-challenge-writeup/">Spyclub : inctf2018 GoSqlv1</a>
 
 ### 2019
 
@@ -35,6 +41,8 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 - <a href="https://systemoverlord.com/2019/03/07/bsides-sf-ctf-author-writeup-cloud2clown.html">systemoverlord : bsides-sf cloud2clown
 
 - <a href="https://movrment.blogspot.com/2019/10/balsn-ctf-2019-web-warmup.html">movrment : Balsn 2019 Web Warmup</a>
+
+- <a href="https://https://fireshellsecurity.team/bytebandits-imgaccess/">fireshell : bytebandits 2019 imgaccess</a>
 
 - <a href="https://github.com/will-lynas/writeups/blob/master/ctf/de1ctf-2019/SSRF_me.md">will-lynas: de1ctf-2019/SSRF_me</a>
 
@@ -48,11 +56,17 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 ### 2020
 
+- <a href="https://hackerone.com/reports/776634">manoelt : [H1-415 2020] CTF Writeup</a>
+
+- <a href="https://lbherrera.github.io/lab/h1415-ctf-writeup.html">lbherrera : [H1-415 2020] CTF Writeup</a>
+
 - <a href="https://r3billions.com/writeup-split-second/">r3billions : split-second Nullcon 2020/</a>
 
 - <a href="http://blog.zeddyu.info/2020/04/20/Plaid-CTF-2020-Web-1/">zeddyu : Plaid-CTF-2020-Web-1</a>
 
 - <a href="https://balsn.tw/ctf_writeup/20200418-plaidctf2020/#contrived-web-problem">Bookgin : PlaidCTF 2020 contrived web problem</a>
+
+- <a href="https://github.com/perfectblue/ctf-writeups/tree/master/2020/plaidctf-2020/contrived-web">ret2jazzy : PlaidCTF 2020 contrived web</a>
 
 - <a href="https://ahmed-belkahla.me/post/fword-ctf2020/">ahmed : Fword 2020 PastaXSS</a>
 
@@ -68,6 +82,15 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 ### 2021
 
+- <a href="https://blog.brycec.me/posts/starctf2021_writeups/">brycec : *CTF 2021</a>
+
+- <a href="https://github.com/sambrow/ctf-writeups-2021/tree/master/bamboo-fox/ssrfrog">sambrow : SSRFrog Bamboofox2021</a>
+
+- <a href="https://maxdamage.dev/posts/bctf-ssrfrog.html">maxdamage : SSRFrog Bamboofox2021</a>
+
+- <a href="https://eine.tistory.com/entry/BambooCTF-2021-web-SSRFrog-Time-to-Draw-write-up"> Einstrasse : SSRFrog Bamboofox2021</a>
+  
+
 #### Other interesting reads
 
 - <a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">Orange Tsai : Blackhat Talk</a>
@@ -82,3 +105,10 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - <a href="https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery">Hacktricks : ssrf-server-side-request-forgery</a>
 
+#### Bug Bounty and RVDs
+
+- <a href="https://www.corben.io/hackertarget/">Corben : Hackertarget</a>
+
+- <a href="https://pwning.re/2018/05/23/shopify-ssrf-to-rce/">Andre : shopify-ssrf-to-rce</a>
+
+- <a href="https://fireshellsecurity.team/1000-ssrf-in-slack/">$1000-ssrf-in-slack</a>
