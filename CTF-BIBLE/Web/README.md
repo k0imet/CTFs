@@ -6,6 +6,8 @@
 
 - [SSTI](./SSTI)
 
+- [XXE](./XXE)
+
 
 <details>
   
