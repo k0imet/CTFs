@@ -65,6 +65,7 @@
 - <a href="https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection">Hacktricks : SSTI</a>
 
 - <a href="https://musyokaian.medium.com/server-side-template-injection-ssti-afa201f2afbb">Musyoka Ian : SSTI explanation</a>
+
 - <a href="https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/">onsecurity SSTI with jinja2</a>
 
 - <a href="https://medium.com/@nyomanpradipta120/ssti-in-flask-jinja2-20b068fdaeee">SSTI in flask/jinja2</a>
@@ -72,6 +73,10 @@
 - <a href="https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68">cobalt : pentesters guide to SSTI</a>
 
 - <a href="https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti">SSTI : cheatsheet</a>
+
+- <a href="https://0x1.gitlab.io/web-security/Server-Side-Template-Injection/">0x1 : SSTI</a>
+
+- <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#jinja2">PayloadAllTheThings : SSTI</a>
 
 
 ##### Youtube Videos 
