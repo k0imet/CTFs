@@ -12,6 +12,9 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 <details>
   <summary>CTF Writeups</summary> 
+ 
+### CTF Writeups
+  
 - [2018](#2018)
 
 - [2019](#2019)
@@ -21,6 +24,8 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 - [2021](#2021)
 
 - [other-reads](#other-interesting-reads)
+
+- [Bug-Bounty](#Bug-Bounty-and-RVDs)
 
 
 ### 2018
@@ -114,7 +119,7 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 <details>
   <summary>Bug Bounty and RVDs</summary>
 
-### Bug Bounty an RVDs
+### Bug Bounty and RVDs
 
 - <a href="https://www.corben.io/hackertarget/">Corben : Hackertarget</a>
 
@@ -124,4 +129,11 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - [From SSRF to $4000](https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/)
 
+- [Escalate SSRF to RCE](https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40)
+
+- [Story Behind Sweet SSRF](https://rohit-soni.medium.com/story-behind-sweet-ssrf-40c705f13053)
+
+- [$10000 Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5)
+
+- [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)
 </details>
