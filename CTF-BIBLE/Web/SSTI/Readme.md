@@ -6,6 +6,9 @@
 
 <a href="https://portswigger.net/web-security/server-side-template-injection">Portswigger Detailed explanation</a>
 
+<details>
+  <summary>CTF-Writeups</summary>
+
 ## CTF-Writeups 
 
 - [2017](#2017)
@@ -56,7 +59,13 @@
 
 - <a href="https://noxtal.com/writeups/2020/08/02/hacktivitycon-template-shack/">noxtal : hacktivitycon,template-shack</a>
 
-##### other interesting reads 
+</details>
+
+
+<details>
+  <summary>other interesting reads</summary>
+
+### other interesting reads 
 
 - <a href="https://we45.com/blog/server-side-template-injection-a-crash-course/">we45 : SSTI Crash Course</a>
 
@@ -78,11 +87,18 @@
 
 - <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#jinja2">PayloadAllTheThings : SSTI</a>
 
+</details>
 
-##### Youtube Videos 
+
+<details>
+  <summary>Youtube Videos</summary>
+  
+### Youtube Videos 
 
 - <a href="https://www.youtube.com/watch?v=SN6EVIG4c-0">Pwnfunction : SSTI Explained</a>
 
 - <a href="https://www.youtube.com/watch?v=WNo0GJl0Keo">Sam : SSTI</a>
 
 - <a href="https://www.youtube.com/watch?v=jRiz8Yg9vbA">Cobalt : SSTI all-in-one</a>
+
+</details>
