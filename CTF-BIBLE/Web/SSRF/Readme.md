@@ -10,7 +10,8 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 
 
-#### CTF Writeups 
+<details>
+  <summary>CTF Writeups</summary> 
 - [2018](#2018)
 
 - [2019](#2019)
@@ -90,8 +91,12 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - <a href="https://eine.tistory.com/entry/BambooCTF-2021-web-SSRFrog-Time-to-Draw-write-up"> Einstrasse : SSRFrog Bamboofox2021</a>
   
+</details>
 
-#### Other interesting reads
+<details>
+  <summary>Other interesting reads</summary>
+  
+### Other interesting reads
 
 - <a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">Orange Tsai : Blackhat Talk</a>
 
@@ -104,11 +109,19 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 - <a href="https://medium.com/seconset/all-about-ssrf-524f41ab96df">Tushar Verma : All about SSRF</a>
 
 - <a href="https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery">Hacktricks : ssrf-server-side-request-forgery</a>
+</details>
 
-#### Bug Bounty and RVDs
+<details>
+  <summary>Bug Bounty and RVDs</summary>
+
+### Bug Bounty an RVDs
 
 - <a href="https://www.corben.io/hackertarget/">Corben : Hackertarget</a>
 
 - <a href="https://pwning.re/2018/05/23/shopify-ssrf-to-rce/">Andre : shopify-ssrf-to-rce</a>
 
 - <a href="https://fireshellsecurity.team/1000-ssrf-in-slack/">$1000-ssrf-in-slack</a>
+
+- [From SSRF to $4000](https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/)
+
+</details>
