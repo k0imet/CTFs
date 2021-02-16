@@ -2,10 +2,12 @@
 
 ![](lfi.jpg)
 
-## File Inclusion vulnerbility 
+## File Inclusion vulnerability 
 
 - A file inclusion vulnerability is a type of web vulnerability that is most commonly found to affect web applications that rely on a scripting run time. This issue is caused when an application builds a path to executable code using an attacker-controlled variable in a way that allows the attacker to control which file is executed at run time. A file include vulnerability is distinct from a generic directory traversal attack, in that directory traversal is a way of gaining unauthorized file system access, and a file inclusion vulnerability subverts how an application loads code for execution. Successful exploitation of a file inclusion vulnerability will result in remote code execution on the web server that runs the affected web application. An attacker can use remote code execution to create a web shell on the web server, which can be used for website defacement. <a href="https://en.wikipedia.org/wiki/File_inclusion_vulnerability">Wikipedia</a>
 
+<details>
+  <summary>CTF Writeups</summary>
 
 ## CTF Writeups
 
@@ -142,8 +144,11 @@
 - <a href="https://github.com/terawhiz/CTF-Writeups/tree/main/0x41414141-CTF/web/waffed#waffed---496-pts">terawhiz : 0x41414141,Waffed</a>
 
 
+</details>
 
 
+<details>
+  <summary>Other Interesting reads</summary>
 
 
 #### other interesting reads 
@@ -176,3 +181,5 @@
 - <a href="https://github.com/tennc/fuzzdb/blob/master/dict/BURP-PayLoad/LFI/LFI-FD-check.txt">Fuzzdb : LFI-FD check</a>
 
 - <a href="http://securityidiots.com/Web-Pentest/LFI">Security Idiots : LFI</a>
+
+</details>
