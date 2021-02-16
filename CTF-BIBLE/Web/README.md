@@ -4,13 +4,13 @@
 
 - [SSRF](./SSRF)
 
-- [SSTI[(./SSTI)
+- [SSTI](./SSTI)
 
 
 <details>
   
 
-  <summary>Vulnerabilities in Web Application</summary>
+  <summary>Vulnerabilities in Web Applications</summary>
 
 ### Introduction
 
