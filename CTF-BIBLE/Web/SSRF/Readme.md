@@ -95,6 +95,8 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 - <a href="https://maxdamage.dev/posts/bctf-ssrfrog.html">maxdamage : SSRFrog Bamboofox2021</a>
 
 - <a href="https://eine.tistory.com/entry/BambooCTF-2021-web-SSRFrog-Time-to-Draw-write-up"> Einstrasse : SSRFrog Bamboofox2021</a>
+
+- [r3curs1v3_pr0xy : Pdf-Generator,TrollCat](https://hackwithproxy.medium.com/pdf-generator-writeup-dns-rebinding-attack-trollcat-ctf-writeup-d8001e5d71bb)
   
 </details>
 
