@@ -107,6 +107,10 @@ In some situations, an attacker can escalate an XXE attack to compromise the und
 
 - [hamayan : File Reader,DarkCTF](https://www.hamayanhamayan.com/entry/2020/09/28/233549)
 
+- [bootplug :Syntax check,defcamp](https://github.com/bootplug/writeups/blob/master/2020/defcamp/writeups.md#syntax-check)
+
+
+
 </details>
 
 
