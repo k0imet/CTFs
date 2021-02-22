@@ -59,6 +59,16 @@
 
 - <a href="https://noxtal.com/writeups/2020/08/02/hacktivitycon-template-shack/">noxtal : hacktivitycon,template-shack</a>
 
+- [bootplug : http for pros,defcamp](https://github.com/bootplug/writeups/blob/master/2020/defcamp/writeups.md#http-for-pros)
+
+
+### 2021 
+
+- [guyintheshell : maze,0x41414141](https://www.youtube.com/watch?v=YA8wcG1GL8A)
+
+- [luftenshjaltar : maze,0x41414141](https://luftenshjaltar.info/writeups/0x41414141ctf/web/maze/)
+
+
 </details>
 
 
