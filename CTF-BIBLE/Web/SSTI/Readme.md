@@ -70,6 +70,8 @@
 
 - [luftenshjaltar : maze,0x41414141](https://luftenshjaltar.info/writeups/0x41414141ctf/web/maze/)
 
+- [Sqrtrev : DMM,DarkCON](https://vuln.live/blog/12)
+
 
 </details>
 
@@ -98,6 +100,11 @@
 - <a href="https://0x1.gitlab.io/web-security/Server-Side-Template-Injection/">0x1 : SSTI</a>
 
 - <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#jinja2">PayloadAllTheThings : SSTI</a>
+
+- [Jinja2 SSTI Filter bypass](https://medium.com/@nyomanpradipta120/jinja2-ssti-filter-bypasses-a8d3eb7b000f)
+
+- [0day : JInja2 template injection filter bypasses](https://0day.work/jinja2-template-injection-filter-bypasses/)
+
 
 </details>
 
