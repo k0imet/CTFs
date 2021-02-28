@@ -10,6 +10,8 @@
 
 - [SQLi](./SQLi)
 
+- [XSS](./XSS)
+
 
 <details>
   
