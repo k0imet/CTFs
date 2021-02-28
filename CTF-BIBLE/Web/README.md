@@ -8,6 +8,8 @@
 
 - [XXE](./XXE)
 
+- [SQLi](./SQLi)
+
 
 <details>
   
