@@ -190,8 +190,6 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 
 - [itzone : Efiens CTF](https://itzone.com.vn/vi/article/efiens-ctf-2019-write-up-tu-sql-injection-toi-rce-va-get-root/)
 
-### 2020
-
 - [sqrtrev : ASIS CTF 2020 Write up(Author View)](https://vuln.live/blog/10)
 
 - [p1 : login page,UIUCTF](https://blog.p1.gs/ctf/2020/07/20/UIUCTF-2020-writeup/)
@@ -235,6 +233,7 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 
 <details>
 	<summary>some-labs</summary>
+
 ### some-labs 
 
 - [beginner sqli](https://github.com/ryotosaito/beginner-sqli)	
