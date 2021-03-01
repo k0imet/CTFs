@@ -12,6 +12,8 @@
 
 - [XSS](./XSS)
 
+- [InsecureDeserialization](./InsecureDesrialization)
+
 
 <details>
   
