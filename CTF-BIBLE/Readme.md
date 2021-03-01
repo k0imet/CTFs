@@ -18,7 +18,7 @@
 
 ### Archived CTFs 
 
-- [Archive](./Archive)
+- [Archive](https://github.com/sajjadium/CTFium)
 
 
 
