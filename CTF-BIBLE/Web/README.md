@@ -12,7 +12,7 @@
 
 - [XSS](./XSS)
 
-- [InsecureDeserialization](./InsecureDesrialization)
+- [InsecureDeserialization](./InsecureDeserialization)
 
 
 <details>
