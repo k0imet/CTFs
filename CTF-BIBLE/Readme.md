@@ -71,13 +71,22 @@ Anything other than the mentioned categories, and the difficulty will always var
   
 ###### `Boot2root`
 
-- <a href="https://hackthebox.com">hackthebox.com</a>
+- [Hackthebox](https://hackthebox.eu)
 
-- <a href="https://vulnhub.com">vulnhub.com</a>
+- [Vulnhub](https://vulnhub.com)
 
-- <a href="https://cyberspace.co.ke">cyberspace.co.ke</a>
+- [Cyberspace](https://ctf.cyberspace.co.ke)
 
-- <a href="https://tryhackme.com">tryhackme.com</a>
+- [Tryhackme](https://tryhackme.com)
+
+
+
+### more links
+
+- [ctfsites](https://ctfsites.github.io)
+
+
+
 
 <b>Watch this Space for More XD</b>
 
