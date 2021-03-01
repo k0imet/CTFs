@@ -157,6 +157,7 @@
 
 - [LiveOverFlow : Tech Support,Google CTF](https://www.youtube.com/watch?v=Tw7ucd2lKBk)
 
+- [0xparrot : PastaXSS,FwordCTF](https://github.com/parrot409/writeups/tree/master/Fword2020/pastaxss)
 
 - [Nguyen : Intigriti Dec Xss challenge](https://viblo.asia/p/write-up-intigritis-december-xss-challenge-2020-GrLZDD0gZk0)
 
