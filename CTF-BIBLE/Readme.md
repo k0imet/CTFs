@@ -86,7 +86,9 @@ Anything other than the mentioned categories, and the difficulty will always var
 - [ctfsites](https://ctfsites.github.io)
 
 
+### Similar Projects
 
+- [CTF-NOTES](https://github.com/lanjelot/ctfs)
 
 <b>Watch this Space for More XD</b>
 
