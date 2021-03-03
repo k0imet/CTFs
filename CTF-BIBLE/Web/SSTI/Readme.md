@@ -72,6 +72,9 @@
 
 - [Sqrtrev : DMM,DarkCON](https://vuln.live/blog/12)
 
+- [beerpwn : Localization is hard(thymeleaf SSTI),AerpCTF](https://beerpwn.github.io/ctf/2021/aero_CTF/web/Localization_is_hard/)
+
+- [n4sm : Localization is hard,AeroCTF](https://ret2school.github.io/post/localization_is_hard_wu/)
 
 </details>
 
@@ -105,6 +108,11 @@
 
 - [0day : JInja2 template injection filter bypasses](https://0day.work/jinja2-template-injection-filter-bypasses/)
 
+- [acunetix : exploiting ssti in thymeleaf](https://www.acunetix.com/blog/web-security-zone/exploiting-ssti-in-thymeleaf/)
+
+- [veracode : Spring-view manipulation vulnerability](https://www.veracode.com/blog/secure-development/spring-view-manipulation-vulnerability)
+
+- [Hacktricks : thymeleaf java SSTI](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection#thymeleaf-java)
 
 </details>
 
