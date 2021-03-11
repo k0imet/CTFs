@@ -77,3 +77,14 @@ Many web applications are not taking enough steps to detect data breaches. The a
 
 <a href="https://csea-iitb.github.io/IITBreachers-wiki/2020/07/22/Web-Vulnerabilities.html">Read More</a>
 </details>
+
+<details>
+  <summary>Web-CTF-Cheatsheets</summary>
+
+## Web-CTF-Cheatsheets
+
+- [Kaibro : Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)
+
+- [p6 :Web-Security-CheatSheet ](https://blog.p6.is/Web-Security-CheatSheet/)
+
+</details>
