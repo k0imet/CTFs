@@ -143,6 +143,7 @@
 
 - <a href="https://github.com/terawhiz/CTF-Writeups/tree/main/0x41414141-CTF/web/waffed#waffed---496-pts">terawhiz : 0x41414141,Waffed</a>
 
+- [Maple Bacon,Lorem Ipsum.B0ilers CTF](https://ubcctf.github.io/2021/04/bo1lers-loremipsum/)
 
 </details>
 
