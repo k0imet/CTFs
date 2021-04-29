@@ -181,6 +181,12 @@
 
 - [terjanq : justCTF2020](https://hackmd.io/@terjanq/justCTF2020-writeups)
 
+- [ptr-yudai :Carmen Sandiego Season 2,PlaidCTF ](https://ptr-yudai.hatenablog.com/entry/2021/04/19/140802)
+
+- [k0imet : Support Ticket 2,CAT CTF](https://k0imet.github.io/2021/04/27/CAT-CTF.ae-WEB-Writeups.html)
+
+- [k0imet : Bug report,CyberApocalypse 2021](https://k0imet.github.io/2021/04/26/CyberApocalypse-Writeups.html)
+
 </details>
 
 
