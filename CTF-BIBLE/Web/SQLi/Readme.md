@@ -208,6 +208,18 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 - [SanXML :got-stacks ](https://drive.google.com/file/d/1hIcHVX3Pbv_EVpmbWUVctpBv7tsPJ_y5/view?usp=sharing)
 
 
+## 2021
+
+- [MrFrey : Cartooner,DCTF](https://mrfey.fr/CTFS//DragonSec%20SI%20CTF%20-%202021/Web/Cartooner)
+
+- [y011d4 : Sea of Quills 1, angstrom](https://https://y011d4.netlify.app/20210408-angstromctf-writeup/#sea-of-quills)
+
+- [y011d4 : Sea of Quills 1, angstrom](https://y011d4.netlify.app/20210408-angstromctf-writeup/#sea-of-quills-2)
+
+- [sqrtrev : DarkCon Challs,VKL_SQL DarkCON](https://vuln.live/blog/12)
+
+
+
 </details>
 
 
