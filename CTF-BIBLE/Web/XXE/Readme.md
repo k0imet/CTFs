@@ -46,6 +46,8 @@ In some situations, an attacker can escalate an XXE attack to compromise the und
 
 - [nettitude : derbycon ](https://labs.nettitude.com/blog/derbycon-2018-ctf-write-up/)
 
+- [Dvd848 : blind, 35C3](https://github.com/Dvd848/CTFs/blob/4f288117c2261b73e125f2338931c86a3641de1c/2018_35C3_Junior/blind.md)
+
 #### 2019
 
 - [pointhi : Baby Recruitor,Pwn2Win](https://www.sigflag.at/blog/2019/writeup-pwn2win-baby-recruiter/)
