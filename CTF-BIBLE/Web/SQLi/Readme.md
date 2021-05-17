@@ -138,8 +138,13 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 ### 2019 
 
 
+- [Dvd848 : Irish-Name-Repo, picoCTF](https://github.com/Dvd848/CTFs/blob/4f288117c2261b73e125f2338931c86a3641de1c/2019_picoCTF/Irish-Name-Repo_2.md)
+
+- [Dvd848 : 1337 Security, TamuCTF](https://github.com/Dvd848/CTFs/blob/4f288117c2261b73e125f2338931c86a3641de1c/2019_TAMUctf/1337_Secur1ty.md)
+
 - [m3ssap0 : SQL Injected,Securinets Prequals](https://github.com/m3ssap0/CTF-Writeups/blob/master/Securinets%20Prequals%20CTF%202019/SQL%20Injected/README.md)
 
+- [Dvd848 : Not Another SQLi Challenge, TamuCTF](https://github.com/Dvd848/CTFs/blob/4f288117c2261b73e125f2338931c86a3641de1c/2019_TAMUctf/Not_Another_SQLi_Challenge.md)
 
 - [Xh4H : file magician,hxp 36c3](https://ctftime.org/writeup/17890)
 
