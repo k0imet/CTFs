@@ -109,7 +109,9 @@ In some situations, an attacker can escalate an XXE attack to compromise the und
 
 - [bootplug :Syntax check,defcamp](https://github.com/bootplug/writeups/blob/master/2020/defcamp/writeups.md#syntax-check)
 
+### 2021 
 
+- [SamXML : Special order 2, 0x41414141](https://github.com/sambrow/ctf-writeups-2021/tree/master/0x41414141/special-order-pt2)
 
 </details>
 
