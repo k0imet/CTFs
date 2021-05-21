@@ -50,6 +50,8 @@
 
 - <a href="https://redpwn.net/writeups/picoctf2019/empire2/">redpwn : picoctf _empire2_</a>
 
+- [Terjanq :Scam Generator, JUSTCTF ](https://hackmd.io/@terjanq/justctf_writeups#Scam-generator-web-2-solves-unfixed-amp-1-solve-fixed)
+
 
 ### 2020 
 
@@ -63,7 +65,7 @@
 
 - [st98 : Notes,hexion](https://st98.github.io/diary/posts/2020-04-13-hexion-ctf-2020-online.html#web-881-notes-37-solves)
 
-
+- [Arashparsa : SimpleFlask, GACTF](https://www.arashparsa.com/gactf/)
 ### 2021 
 
 - [guyintheshell : maze,0x41414141](https://www.youtube.com/watch?v=YA8wcG1GL8A)
