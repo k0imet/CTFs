@@ -255,6 +255,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Nowhere](https://n0where.net/best-android-security-resources/)
 * [Secmobi](https://github.com/secmobi/wiki.secmobi.com)
 
+</details>
 
 ## Mobile security standards
 * [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
