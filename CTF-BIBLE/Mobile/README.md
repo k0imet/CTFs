@@ -97,6 +97,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 ### 2021
 
 * [Water Color, S4CTF](https://github.com/1GN1tE/CTF_Writeups/tree/main/Writeups/S4CTF_2021/Water%20Color)
+* [Midnight Flag](https://www.neit.tech/article/2/)
+
 
 ### 2020
 
@@ -104,7 +106,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Android,GoogleCTF](https://github.com/NicolaiSoeborg/ctf-writeups/tree/master/2020/Google%20CTF%202020/Android)
 * [Zulumeats 3, CyberSpace](https://blog.ikuamike.io/posts/2020/cyberspacectf-zulumeats3/)
 * Chasing a lock, RaziCTF : [Ikuamike Writeup](https://blog.ikuamike.io/posts/2020/razictf-chasingalock-writeup/), [1GN1T3](https://github.com/t3rmin0x/CTF-Writeups/tree/master/Razi%20CTF/Android/Chasing%20A%20Lock)
-
+* [HacktivityCon,several](https://www.goggleheadedhacker.com/blog/post/19)
+* [Flag Getter: downunderCTF](https://jsur.in/posts/2020-09-20-downunderctf-2020-writeups#flag-getter)
   
 
 ### 2019
@@ -115,6 +118,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [CyberTruck Challenge 2019 — Android CTF](https://medium.com/bugbountywriteup/cybertruck-challenge-2019-android-ctf-e39c7f796530)
 * [Bsidessf-ctf-2019-mobile-track](https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/)
 * BsidesSF CTF - Challenge: [Part 1](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-1-e849bc917d37), [Part 2](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-2-f8f597be659)
+* [Flare-on 6](https://blog.attify.com/flare-on-6-ctf-writeup-part3/)
 
 ### 2018
 * [H1 202 2018 / H1 202 CTF](https://corb3nik.github.io/blog/h1-202-2018/h1-202-ctf)
@@ -130,6 +134,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [AES decode with Cyberchef](https://blog.manchestergreyhats.co.uk/2018/04/18/aes-decode-with-cyberchef/)
 
 ### 2017
+
+* [h1-702-2018 : Several](https://blog.hacker.af/h1-702-2018-write-ups)
 * [BSides San Francisco CTF 2017 : pinlock-150](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/pinlock-150)
 * [BSides San Francisco CTF 2017 : flag-receiver-200](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/flag-receiver-200)
 * [BSidesSF CTF wrap-up](https://blog.skullsecurity.org/2017/bsidessf-ctf-wrap-up)
