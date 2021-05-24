@@ -4,6 +4,8 @@
 ## TL;DR 
 ### Writeups
 
+- [Mobile](./Mobile)
+
 - [Web](./Web)
 
 - [Forensics](./forensics)
