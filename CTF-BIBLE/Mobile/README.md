@@ -8,6 +8,9 @@ feel free to check the original link too
 
 Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
+<details>
+  <summary>Mobile CTF challenges</summary>
+  
 ## Mobile CTF challenges
 * [KGB Messenger](https://github.com/tlamb96/kgb_messenger)
 * [ASIS CTF — ShareL Walkthrough](https://medium.com/bugbountywriteup/asis-ctf-sharel-walkthrough-da32f3533b40?)
@@ -62,8 +65,51 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Cl.ctfk](https://github.com/CTFK/cl.ctfk)
 * [Cryptax](https://github.com/cryptax/challenges)
 
+</details>
+
+<details>
+  <summary>CTF-Writeups</summary>
+
 ## CTF Writeups
+
+* [2021](#2021)
+
+* [2020](#2020)
+
+* [2019](#2019)
+
+* [2018](#2018)
+
+* [2017](#2017)
+
+* [2016](#2016)
+
+* [2015](#2015)
+
+* [2014](#2014)
+
+* [2013](#2013)
+
+* [2012](#2012)
+
+* [Vulnerable Mobile apps](#Vulnerable-Mobile-apps)
+
+### 2021
+
+* [Water Color, S4CTF](https://github.com/1GN1tE/CTF_Writeups/tree/main/Writeups/S4CTF_2021/Water%20Color)
+
+### 2020
+
+* [Andry,m0lecon teaser](https://bannsecurity.github.io/writeups/2020/05/24/m0leCon-teaser-2020-rev-andry/)
+* [Android,GoogleCTF](https://github.com/NicolaiSoeborg/ctf-writeups/tree/master/2020/Google%20CTF%202020/Android)
+* [Zulumeats 3, CyberSpace](https://blog.ikuamike.io/posts/2020/cyberspacectf-zulumeats3/)
+* Chasing a lock, RaziCTF : [Ikuamike Writeup](https://blog.ikuamike.io/posts/2020/razictf-chasingalock-writeup/), [1GN1T3](https://github.com/t3rmin0x/CTF-Writeups/tree/master/Razi%20CTF/Android/Chasing%20A%20Lock)
+
+  
+
 ### 2019
+
+* [Local News,TamuCTF](https://blog.raw.pm/en/TamuCTF-2019-write-ups2/#460-Local-News-Android)
 * [DroidCon, SEC-T CTF 2019](https://anee.me/droidcon-sec-t-ctf-2019-d796be91bb3f)
 * [You Shall Not Pass - BSides Canberra 2019](https://medium.com/tsscyber/ctf-writeup-you-shall-not-pass-2c7a9254549b)
 * [CyberTruck Challenge 2019 — Android CTF](https://medium.com/bugbountywriteup/cybertruck-challenge-2019-android-ctf-e39c7f796530)
@@ -196,74 +242,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Damn Vulnerable iOS App (DVIA)](https://github.com/prateek147/DVIA)
 * [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
 
-
-## Vulnerable Web apps:
-### Node
-* [Damn Vulnerable NodeJS Application](https://github.com/appsecco/dvna)
-* [Damn Vulnerable Serverless Application](https://github.com/OWASP/DVSA)
-* [OWASP: Juice Shop](https://github.com/bkimminich/juice-shop)
-* [Damn Vulnerable Node Application](https://github.com/isp1r0/DVNA)
-* [Intentionally Vulnerable node.js application](https://github.com/nVisium/node.nV)
-* [Vulnode](https://github.com/dpnishant/vulnode)
-* [OWASP: NodeGoat](https://github.com/OWASP/NodeGoat)
-* [Vulnerable-node](https://github.com/cr0hn/vulnerable-node)
-
-### PHP
-* [OWASP: Broken Web Applications(BWA)](https://github.com/chuckfw/owaspbwa/)
-* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA)
-* [Damn Vulnerable Web Services(DVWS)](https://github.com/snoopysecurity/dvws)
-* [OWASP Hackademic Challenges](https://github.com/Hackademic/hackademic)
-* [OWASP: Insecure Web App Project](https://sourceforge.net/projects/insecurewebapp/files/)
-* [OWASP: WebGoat](https://github.com/OWASP/OWASPWebGoatPHP)
-* [Bwapp](https://sourceforge.net/projects/bwapp/files/bWAPP/)
-* [Beebox](https://sourceforge.net/projects/bwapp/files/bee-box/)
-* [XVWA - Badly coded web application](https://github.com/s4n7h0/xvwa)
-* [Drunk Admin Web Hacking Challenge](http://bechtsoudis.com/archive/2012/04/02/drunk-admin-web-hacking-challenge/index.html)
-* [Peruggia](https://sourceforge.net/projects/peruggia/files/)
-* [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
-* [Btslab](https://github.com/CSPF-Founder/btslab/)
-* [OWASP: Bricks](http://sechow.com/bricks/index.html)
-* [The ButterFly Security Project](http://sourceforge.net/projects/thebutterflytmp/files/)
-* [WackoPicko](https://github.com/adamdoupe/WackoPicko)
-* [Vicnum](https://sourceforge.net/projects/vicnum/files/)
-* [GameOver](https://sourceforge.net/projects/null-gameover/)
-* [LAMPSecurity Training](https://sourceforge.net/projects/lampsecurity/)
-* [Metasploitable](https://download.vulnhub.com/metasploitable/Metasploitable.zip)
-* [Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/)
-* [Metasploitable 3](https://github.com/rapid7/metasploitable3)
-* [Hackazon](https://github.com/rapid7/hackazon)
-* [Twiterlike](https://github.com/sakti/twitterlike)
-* [UltimateLAMP](https://download.vulnhub.com/ultimatelamp/UltimateLAMP-0.2.zip)
-
-## Sql
-* [SQLI-labs](https://github.com/Audi-1/sqli-labs)
-* [Testenv](https://github.com/sqlmapproject/testenv)
-
-### Python
-* [Google Gruyere](http://google-gruyere.appspot.com)
-
-### Java
-* [Owasp: WebGoat](https://github.com/WebGoat/WebGoat)
-* [Puzzlemall](https://code.google.com/p/puzzlemall/)
-* [Hacme Books](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx)
-* [Bodgeit](https://github.com/psiinon/bodgeit)
-* [OWASP: Web Goat](https://github.com/WebGoat/WebGoat)
-
-### Ruby on Rails
-* [Hacme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)
-* [RailsGoat](https://github.com/OWASP/railsgoat)
-
-### C++
-* [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx) 
-
-### .NET
-* [OWASP: WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET)
-* [Hacme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx)
-* [VulnApp](https://labs.portcullis.co.uk/tools/vulnapp/)
-
-### ColdFusion
-* [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx)
-
 ## Mobile security resources
 * [Mobile app pentest cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 * [Android security awesome](https://github.com/ashishb/android-security-awesome)
@@ -277,25 +255,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Nowhere](https://n0where.net/best-android-security-resources/)
 * [Secmobi](https://github.com/secmobi/wiki.secmobi.com)
 
-## Infosec resources
-* [OSX-iOS-reverse-engineering](https://github.com/michalmalik/osx-re-101)
-* [OSX-security-awesome](https://github.com/kai5263499/osx-security-awesome)
-* [Awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
-* [Awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation)
-* [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check)
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-* [Awesome-reversing](https://github.com/fdivrp/awesome-reversing)
-* [Aweasome-Frida](https://github.com/dweinstein/awesome-frida)
-* [Awesome-security](https://github.com/sbilly/awesome-security)
-* [Awesome-fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
-* [Awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security)
-* [Android vulnerabilities overview](https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview)
-* [OSX-security-awesome](https://github.com/kai5263499/osx-security-awesome)
-* [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-* [Awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
-* [Linux-reverse-engineering-101](https://github.com/michalmalik/linux-re-101)
-
 
 ## Mobile security standards
 * [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
@@ -308,3 +267,4 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * https://www.owasp.org/index.php
 * https://github.com/ctfs
 * http://shell-storm.org/repo/
+
