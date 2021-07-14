@@ -187,6 +187,14 @@
 
 - [k0imet : Bug report,CyberApocalypse 2021](https://k0imet.github.io/2021/04/26/CyberApocalypse-Writeups.html)
 
+- [Ryn0K : Notes, RedPwn](https://github.com/Ryn0K/CTF_Writeups/tree/master/redpwn/web/notes/notes)
+
+- [jokr: Notes, RedPwn](https://jokrhub.github.io/2021/06/13/redpwnCTF-2021-notes.html)
+
+- [maple3142 : pastebin2, RedPwn](https://blog.maple3142.net/2021/07/13/redpwnctf-2021-writeups/#pastebin-2-social-edition)
+
+- [maple3142 : pastebin3, RedPwn](https://blog.maple3142.net/2021/07/13/redpwnctf-2021-writeups/#pastebin-3)
+	
 </details>
 
 
