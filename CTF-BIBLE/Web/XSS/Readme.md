@@ -194,6 +194,16 @@
 - [maple3142 : pastebin2, RedPwn](https://blog.maple3142.net/2021/07/13/redpwnctf-2021-writeups/#pastebin-2-social-edition)
 
 - [maple3142 : pastebin3, RedPwn](https://blog.maple3142.net/2021/07/13/redpwnctf-2021-writeups/#pastebin-3)
+
+- [Pocas : Original Store,Zh3r0](https://pocas.kr/2021/06/06/2021-06-05-Zh3r0-2021-CTF/#Web-Original-Store-842-pts)
+	
+- [Pocas : Original Store v2,Zh3r0](https://pocas.kr/2021/06/06/2021-06-05-Zh3r0-2021-CTF/#Web-Original-Store-v2-871-pts)
+	
+- [Pocas : bxss,Zh3r0](https://pocas.kr/2021/06/06/2021-06-05-Zh3r0-2021-CTF/#Web-bxss-100pts)
+	
+- [qxxxb : imgfiltrate,CCC](https://github.com/qxxxb/ctf_challenges/tree/master/2021/ccc/web/imgfiltrate/solve)
+	
+- [qxxxb : stickynotes, CCC](https://github.com/qxxxb/ctf_challenges/tree/master/2021/ccc/web/sticky_notes/solve)
 	
 </details>
 
