@@ -25,6 +25,8 @@
 
 - <a href="https://ctf-writeups.ru/2k17/asis-ctf-finals-2017/golem-is-stupid/">Golem is stupid, Asis2017</a>
 
+- [ktrio3 : Shia Labeouf-off!, CSAW Quals](https://ctftime.org/writeup/7580)
+
 
 
 ### 2018 
@@ -39,6 +41,12 @@
 
 - <a href="https://s0cket7.com/picoctf-web/">s0cket7 : picoctf _flask cards_ </a>
 
+- [kazkiti : TorPy,InCTF](https://ctftime.org/writeup/11519)
+
+- [flawwn : TorPy,InCTF](https://github.com/flawwan/CTF-Writeups/blob/master/inCTF2018/torpy.md)
+
+- [HaboobTeam : SimpleVN](https://github.com/HaboobTeam/BCTF-2018-write-up/raw/master/WEB/SimpleVN.pdf)
+
 
 ### 2019
 
@@ -50,12 +58,19 @@
 
 - <a href="https://redpwn.net/writeups/picoctf2019/empire2/">redpwn : picoctf _empire2_</a>
 
-- [Terjanq :Scam Generator, JUSTCTF ](https://hackmd.io/@terjanq/justctf_writeups#Scam-generator-web-2-solves-unfixed-amp-1-solve-fixed)
+- [Terjanq : Scam Generator, JUSTCTF ](https://hackmd.io/@terjanq/justctf_writeups#Scam-generator-web-2-solves-unfixed-amp-1-solve-fixed)
 
+- [Dvd848 : Science,TamuCTF](https://github.com/Dvd848/CTFs/blob/master/2019_TAMUctf/Science.md)
+
+- [noobintheshell : Science, TamuCTF](https://noobintheshell.medium.com/tamuctf2019-writeups-1-360f53008f7a#708a)
+
+- [kazkiti : repeeaaaat, EncryptCTF](https://ctftime.org/writeup/14342)
 
 ### 2020 
 
-- <a href="https://github.com/team0se7en/CTF-Writeups/blob/master/csictf2020/web/The_Usual_Suspects/README.md">team0se7en : csictf2020, Usual suspects</a>	
+- <a href="https://github.com/team0se7en/CTF-Writeups/blob/master/csictf2020/web/The_Usual_Suspects/README.md">team0se7en : csictf2020, Usual suspects</a>
+
+- [ahmed : the usual suspects, csictf](https://ahmed-belkahla.me/post/csictf2020/#the-usual-suspects-499pts-32-solves-)
 
 - <a href="https://hackerone.com/reports/895778">nirvana_msu : [H1-2006] CTF Writeup</a>
 
@@ -67,7 +82,21 @@
 
 - [Arashparsa : SimpleFlask, GACTF](https://www.arashparsa.com/gactf/)
 
+- [SamXML : Congenial Octo Couscous, TJCTF](https://drive.google.com/file/d/1SMHzyP9jwN3vslfYU2kejVU-crYfnD8P/view)
+
 - [Kazkiti : Notepad, Zer0pts](https://ctftime.org/writeup/18597)
+
+- [posix : Notepad, Zer0pts](https://blog.p6.is/zer0pts-CTF-2020/)
+
+- [hamayanhamayan : Notepad, Zero0pts](https://blog.hamayanhamayan.com/entry/2020/03/09/131651)
+
+- [v4681d : MicroService, SUSEC](https://ctftime.org/writeup/18951)
+
+- [Ox12A0F : Memehub, Bsides Algiers quals](https://ctftime.org/writeup/25435)
+
+- [justjosef : Faraday, EkoParty](https://ctftime.org/writeup/23840)
+
+- [spotless : Newsletter, VolgaCTF quals](https://spotless.tech/volgactf-2020-qualifier-newsletter.html)
 
 ### 2021 
 
@@ -80,6 +109,18 @@
 - [beerpwn : Localization is hard(thymeleaf SSTI),AerpCTF](https://beerpwn.github.io/ctf/2021/aero_CTF/web/Localization_is_hard/)
 
 - [n4sm : Localization is hard,AeroCTF](https://ret2school.github.io/post/localization_is_hard_wu/)
+
+- [isopach : Injection, DCTF](https://isopach.dev/DCTF-2021/#injection)
+
+- [luc : Lotion,Foobar](https://szymanski.ninja/en/ctfwriteups/2021/foobar/lotion/)
+
+- [xxonorg : Injection, DCTF](https://github.com/xxonorg/dCTF2021_Writeup/blob/main/Injection.md)
+
+- [manhnv : Starfleet, CyberApocalypse](https://manhnv.com/2021/04/cyber-apocalypse-2021-web-starfleet-writeup/)
+
+- [ryan-cd : ninja name generator, InterIUT](https://github.com/ryan-cd/ctf/tree/master/2020/interIUT/ninja_name_generator)
+
+- [ianjelot : AgentTester, Nahamcon](https://thegoonies.github.io/2021/03/15/nahamconctf-2021-agent-tester-v2/)
 
 </details>
 
@@ -118,6 +159,8 @@
 - [veracode : Spring-view manipulation vulnerability](https://www.veracode.com/blog/secure-development/spring-view-manipulation-vulnerability)
 
 - [Hacktricks : thymeleaf java SSTI](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection#thymeleaf-java)
+
+- [posix :Python-SSTI-exploitable-classes ](https://blog.p6.is/Python-SSTI-exploitable-classes/)
 
 </details>
 
