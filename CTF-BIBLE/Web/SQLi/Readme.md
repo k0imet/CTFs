@@ -205,6 +205,9 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 - [sqrtrev : ASIS CTF 2020 Write up(Author View)](https://vuln.live/blog/10)
 
 
+- [bi0s : XQli,InCTF](https://blog.bi0s.in/2020/08/26/Web/InCTF20%20-%20XQLi/)
+
+
 - [p1 : login page,UIUCTF](https://blog.p1.gs/ctf/2020/07/20/UIUCTF-2020-writeup/)
 
 
@@ -224,6 +227,25 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 - [sqrtrev : DarkCon Challs,VKL_SQL DarkCON](https://vuln.live/blog/12)
 
 - [SamXML : mysqlimit, TetCTF](https://drive.google.com/file/d/1vZEsnFT37qzlsMkfFqaYioxUPepdEpVY/view)
+
+- [qxxb : meet the union committee,UnionCTF](https://github.com/qxxxb/ctf/tree/master/2021/union_ctf/meet_the_union_committee)
+
+- [pwnthenope : Gauntlet2&3, PicoCTF](https://pwnthenope.pythonanywhere.com/writeups/web_gauntlet.html)
+
+- [th3jackers : Trashbin,Bsides Algiers Quals](https://ctftime.org/writeup/25437)
+	
+- [ianjelot : art-gallery2,shakti](https://thegoonies.github.io/2021/04/04/shakti-ctf-2021-art-gallery-2/)
+	
+- [albertofdr : emoji-voting,CyberApocalypse](https://albertofdr.github.io/ctf/htb/en/2021/04/24/ctf-htb.html#emoji-voting)
+	
+- [kblagoev : emoji-voting, CyberApocalypse](https://kblagoev.com/blog/emoji-voting-cyberapocalypse-2021-ctf/)
+	
+- [noob3xploiter : AlexFanClub](https://noob3xploiter.medium.com/lit-ctf-alex-fan-club-sql-injection-with-strict-blacklist-7abbcd402751)
+	
+- [bi0s : Vuln-Drive, InCTF](https://blog.bi0s.in/2021/08/15/Web/Vuln-Drive-InCTF-Internationals-2021/) :fire:
+
+
+
 
 </details>
 
