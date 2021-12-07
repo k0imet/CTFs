@@ -86,6 +86,8 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - <a href="https://hackmd.io/@mystiz/twctf-2020-writeup#urlcheck-v2-Web-128-points">mystiz : urlcheck-v2 TokyoWesterns 2020 </a>
 
+- [evanj2357 : kvcloud,WeCTF](https://evanj2357.github.io/ctf_writeups/kvcloud/)
+
 ### 2021
 
 - <a href="https://blog.brycec.me/posts/starctf2021_writeups/">brycec : *CTF 2021</a>
@@ -98,6 +100,40 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - [r3curs1v3_pr0xy : Pdf-Generator,TrollCat](https://hackwithproxy.medium.com/pdf-generator-writeup-dns-rebinding-attack-trollcat-ctf-writeup-d8001e5d71bb)
   
+- [synacktiv : Entituber HTB-Business CTF](https://github.com/synacktiv/CTF-Write-ups/blob/main/HTB-Business-CTF-2021/fullpwn/entituber.md)
+
+- [abbas : Bithug,PicoCTF](https://docs.abbasmj.com/ctf-writeups/picoctf2021#bithug)
+
+- [ehhthing : Bithug PicoCTF](https://larry.science/post/picoctf-2021/#bithug)
+
+- [qxxxb : Waterered down watermark,Angstrom](https://github.com/qxxxb/ctf/tree/master/2021/angstrom_ctf/watered_down_watermark)
+
+- [Kaiziron : Baby-SSRF,zh3r0-CTF](https://github.com/Kaiziron/zh3r0_ctf_v2/blob/main/Baby_SSRF/README.md)
+
+- [Amon : Site Shot,Vulncon](https://nandynarwhals.org/vulncon-ctf-2021/#website-shot)
+
+- [bi0s : Vuln-Drive, InCTF](https://blog.bi0s.in/2021/08/15/Web/Vuln-Drive-InCTF-Internationals-2021/)
+
+- [p4w : ChainRace, darkCTF](https://beerpwn.github.io/ctf/2020/darkCTF/web/Chain%20Race/)
+
+- [neptunian : requester and requester strikes back,RedPwn ](https://fireshellsecurity.team/redpwnctf-requester-and-requester-strikes-back/)
+
+- [parrot : PwnyIDE, UIUCTF](https://hackmd.io/@parrot409/HJJU1B_1t)
+
+- [k0imet : 0xSSRF](http://k0imet.codes/2021/05/04/HeroCTF-Writeups.html#0xssrf)
+
+- [zeyu : Raas.InCTF](https://ctf.zeyu2001.com/2021/inctf-2021/raas)
+
+- [rainbowpigeon : triskel-1-first-contact,norzhctf](https://rainbowpigeon.me/posts/norzhctf-2021/#triskel-1-first-contact)
+
+- [rainbowpigeon : triskel-3-dead-end,norzhctf](https://rainbowpigeon.me/posts/norzhctf-2021/#triskel-3--dead-end)
+
+- [ankursundara : wowza,PlaidCTF](https://blog.ankursundara.com/plaidctf-2021-wowza/)
+
+- [53c0nd-2473](https://ctftime.org/writeup/27733)
+
+- [debugmen : hacker-tools, Tenable](https://debugmen.dev/ctf-writeup/2021/02/23/hacker_tools.html)
+ 
 </details>
 
 <details>
