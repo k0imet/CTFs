@@ -52,6 +52,8 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - [OpenToAll : CoinGame,nuitduhack](https://abdilahrf.github.io/ctf/writeup-nuitdohack-quals-CoinGame)
 
+- [sed-baddou Easy PHP,nu1lCTF](https://sed-baddou.medium.com/chaining-bugs-to-get-shell-easy-and-hard-php-nu1lctf-2018-writeup-6369e6a97218)
+
 ### 2019
 
 - <a href="https://github.com/10secTW/ctf-writeup/blob/master/2019/ASIS%20CTF%20quals/Web%20-%20Baby%20SSRF.md">10secTW : Baby SSRF ASIS QUALS 2019</a>
@@ -82,6 +84,15 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - [kazkiti : Option-Cmd-U, SECCON](https://ctftime.org/writeup/16925)
 
+- [balsn : cat-web,CONfidence-Teaser ](https://balsn.tw/ctf_writeup/20200314-confidencectf2020teaser/#cat-web)
+
+- [XeR : Crawl-Box,RealWorldCTF](https://xer.forgotten-legends.org/writeup/2019/rwctf/crawl%20box.md)
+
+- [0xsapra : Where's My Cash,ALLELS](https://github.com/Super-Guesser/ctf/tree/master/2020/ALLES%20CTF%202020/web/where_is_my_cash)
+
+- [kcotsneb : exploitify, ENOFLAG3](https://saarsec.rocks/2019/07/10/explotify.html)
+
+
 ### 2020
 
 - <a href="https://hackerone.com/reports/776634">manoelt : [H1-415 2020] CTF Writeup</a>
@@ -109,6 +120,16 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 - <a href="https://hackmd.io/@mystiz/twctf-2020-writeup#urlcheck-v2-Web-128-points">mystiz : urlcheck-v2 TokyoWesterns 2020 </a>
 
 - [evanj2357 : kvcloud,WeCTF](https://evanj2357.github.io/ctf_writeups/kvcloud/)
+
+- [ar9ang3 : HackTheC2,Defenit](https://ar9ang3.tistory.com/63)
+
+- [ptrcnull : haramony chat, DragonCTF](https://github.com/p4-team/ctf/tree/master/2020-11-20-dragonctf/harmony_chat)
+
+- [zup : tpc, Balsn](https://ctftime.org/writeup/24948)
+
+- [zup : Discloud, DownUnderCTF](https://github.com/bootplug/writeups/blob/master/2020/downunderctf/misc/discloud/README.md)
+
+- [beerpwn : sploosh,PbCTF](https://beerpwn.github.io/ctf/2020/pbctf/Sploosh/)
 
 ### 2021
 
@@ -154,7 +175,9 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - [53c0nd-2473](https://ctftime.org/writeup/27733)
 
-- [debugmen : hacker-tools, Tenable](https://debugmen.dev/ctf-writeup/2021/02/23/hacker_tools.html)
+- [debugmen : hacker-toohttps://saarsec.rocks/2019/07/10/explotify.htmlls, Tenable](https://debugmen.dev/ctf-writeup/2021/02/23/hacker_tools.html)
+
+- [jagetu : m0lefans,m0lecon2021](https://wrecktheline.com/writeups/m0lecon-2021/#m0lefans)
  
 </details>
 
