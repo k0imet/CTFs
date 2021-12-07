@@ -38,6 +38,20 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 
 - <a href="https://spyclub.tech/2018/10/08/2018-10-08-inctf2018-web-challenge-writeup/">Spyclub : inctf2018 GoSqlv1</a>
 
+- [1v3m : MMORPG3000, CTFZone](https://anal.school/2018/07/23/MMORPG3000-CTFZone-2018/)
+
+- [Pharisaeus : MMORPG3000,CTFZone](https://github.com/p4-team/ctf/tree/master/2018-07-21-ctfzone-quals/web_mmorpg)
+
+- [graneed : hiddenDOM,noxCTF](https://graneed.hatenablog.com/entry/2018/09/09/020809)
+
+- [stypr : lazyadmin, Volga](https://harold.kim/blog/2018/03/volgactf-2018-lazy-admin-writeup/)
+
+- [Pharisaeus : Cool Storage Service,Insomni'Hack ](https://github.com/p4-team/ctf/tree/master/2018-01-20-insomnihack/web_css)
+
+- [XeR : Tet-Shopping,Ace-Bear](https://ctftime.org/writeup/8578)
+
+- [OpenToAll : CoinGame,nuitduhack](https://abdilahrf.github.io/ctf/writeup-nuitdohack-quals-CoinGame)
+
 ### 2019
 
 - <a href="https://github.com/10secTW/ctf-writeup/blob/master/2019/ASIS%20CTF%20quals/Web%20-%20Baby%20SSRF.md">10secTW : Baby SSRF ASIS QUALS 2019</a>
@@ -59,6 +73,14 @@ In computer security, server-side request forgery (SSRF) is a type of exploit wh
 - <a href="https://nytr0gen.github.io/writeups/ctf/2019/09/09/defcamp-ctf-quals-2019.html#imgur-202p-web">nytrogen : defcamp quals 2019 imgur</a>
 
 - <a href="https://github.com/De1ta-team/De1CTF2019/tree/master/writeup/web/SSRF%20Me">De1ta-team : De1CTF2019/SSRF_ME</a>
+
+- [graneed : Bad Injections,Fireshell](https://graneed.hatenablog.com/entry/2019/01/28/023500)
+
+- [r00tstici : red-pwn-is, redpwnctf](https://github.com/r00tstici/writeups/blob/master/redpwnCTF/red-pwn-is/writeup.md)
+
+- [perfect-blue : bigspin, MidnightSunQuals](https://github.com/perfectblue/ctf-writeups/tree/master/2019/midnightsun-ctf-2019-quals/bigspin)
+
+- [kazkiti : Option-Cmd-U, SECCON](https://ctftime.org/writeup/16925)
 
 ### 2020
 
