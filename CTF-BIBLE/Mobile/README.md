@@ -98,6 +98,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 * [Water Color, S4CTF](https://github.com/1GN1tE/CTF_Writeups/tree/main/Writeups/S4CTF_2021/Water%20Color)
 * [Midnight Flag](https://www.neit.tech/article/2/)
+* [Centaurus, Nahamcon](https://ctftime.org/writeup/26439)
+* [Play_the_game, RCTF](https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/)
 
 
 ### 2020
@@ -108,6 +110,12 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * Chasing a lock, RaziCTF : [Ikuamike Writeup](https://blog.ikuamike.io/posts/2020/razictf-chasingalock-writeup/), [1GN1T3](https://github.com/t3rmin0x/CTF-Writeups/tree/master/Razi%20CTF/Android/Chasing%20A%20Lock)
 * [HacktivityCon,several](https://www.goggleheadedhacker.com/blog/post/19)
 * [Flag Getter: downunderCTF](https://jsur.in/posts/2020-09-20-downunderctf-2020-writeups#flag-getter)
+* [Mobile 2: TrendMicro Quals](https://github.com/Hong5489/TrendMicroCTF2020/tree/main/mobile2)
+* [Play_the_game, RCTF](https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/)
+* [Tamarin, Tokyo Westerns](https://github.com/pwning/public-writeup/tree/master/twctf2020/tamarin)
+* [Android, GoogleCTF](https://ctftime.org/writeup/23953)
+* [Pre-Historic Mario, ALLELS](https://ctftime.org/writeup/23320)
+* [Certified APP, BsidesTLV](https://ctftime.org/writeup/22010)
   
 
 ### 2019
@@ -119,6 +127,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Bsidessf-ctf-2019-mobile-track](https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/)
 * BsidesSF CTF - Challenge: [Part 1](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-1-e849bc917d37), [Part 2](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-2-f8f597be659)
 * [Flare-on 6](https://blog.attify.com/flare-on-6-ctf-writeup-part3/)
+* [Andex, ASIS Finals](https://medium.com/@ralireza/asis-ctf-2019-andex-write-up-33b91311c3a)
+
 
 ### 2018
 * [H1 202 2018 / H1 202 CTF](https://corb3nik.github.io/blog/h1-202-2018/h1-202-ctf)
@@ -132,6 +142,11 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [H1-202 CTF - Writeup](https://pwning.re/2018/02/23/h1-202-writeup/)
 * [M1Con CTF Write up](https://blog.manchestergreyhats.co.uk/2018/03/28/m1con-ctf-writeup/)
 * [AES decode with Cyberchef](https://blog.manchestergreyhats.co.uk/2018/04/18/aes-decode-with-cyberchef/)
+* [block, SECCON](https://ctftime.org/writeup/12004)
+* [Magicians Spells, HackIT](https://ctftime.org/writeup/11319)
+* [Shall we Play a Game,GoogleCTF](https://ctftime.org/writeup/10336)
+* [Shooter, SECCON](https://ctftime.org/writeup/12005)
+
 
 ### 2017
 
@@ -146,6 +161,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [2017_labyREnth: mob3_showmewhatyougot](https://github.com/gray-panda/grayrepo/tree/6a0d2fce53b71135286fac3c323b712af08d6913/2017_labyREnth/chal/mob3_showmewhatyougot)
 * [2017_labyREnth: mob4_androidpan](https://github.com/gray-panda/grayrepo/tree/ffbf17ec172f1624ba6607cc7756ed7b99d95b63/2017_labyREnth/chal/mob4_androidpan)
 * [2017_labyREnth: mob5_iotctf](https://github.com/gray-panda/grayrepo/tree/1a0c2e033621af9900932252cda31c14a4fbbce8/2017_labyREnth/chal/mob5_iotctf)
+* [helpxmen Stage 1-3, PHown](https://duykham.blogspot.com/2017/12/helpxman-stage-1-when-wearing-smart.html)
 
 ### 2016
 * [LabyREnth](http://researchcenter.paloaltonetworks.com/2016/09/unit42-labyrenth-capture-the-flag-ctf-mobile-track-solutions/)
@@ -274,4 +290,5 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * https://www.owasp.org/index.php
 * https://github.com/ctfs
 * http://shell-storm.org/repo/
+* https://ctftime.org
 
