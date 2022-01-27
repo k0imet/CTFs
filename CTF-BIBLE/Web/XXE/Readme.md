@@ -115,6 +115,20 @@ In some situations, an attacker can escalate an XXE attack to compromise the und
 
 - [SamXML : Special order 2, 0x41414141](https://github.com/sambrow/ctf-writeups-2021/tree/master/0x41414141/special-order-pt2)
 
+- [Letronghoangminh : Alex Fan Club,LITCTF](https://github.com/letronghoangminh/CTF-Writeups/tree/master/Web/LITCTF%202021%20-%20Alex%20Fan%20Club%20API%20(500))
+
+- [Synacktiv : entituber, HTB-Business](https://github.com/synacktiv/CTF-Write-ups/blob/main/HTB-Business-CTF-2021/fullpwn/entituber.md)
+
+- [Greybtw : Include me, eHaCON](https://github.com/greybtw/writeup-CTF_2021/blob/master/eHaCON%20CTF%202K21/Include%20me.md)
+
+- [Thalium : Artillery, CyberApocalypse](https://thalium.github.io/blog/posts/apocalypse2021-artillery/)
+
+- [Szymanski : indead2, Hackpack](https://szymanski.ninja/en/ctfwriteups/2021/hackpack/indead-v2/)
+
+- [PwnProphecy : Leaky-logs, Cybergames](https://github.com/PwnProphecy/ctf/blob/main/metactf-cybergames2021/Leaky-Logs.md)
+
+- [Terawiz : special-order-pt2, 0x41414141](https://github.com/terawhiz/CTF-Writeups/blob/main/0x41414141-CTF/web/special-oreder-pt2/README.md#special-order-pt2---490-pts)
+
 </details>
 
 
