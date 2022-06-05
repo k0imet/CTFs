@@ -20,6 +20,8 @@
 - [2020](#2020)
 
 - [2021](#2021)
+  
+- [2022](#2022)
 
 ### 2017
 
@@ -122,6 +124,15 @@
 
 - [ianjelot : AgentTester, Nahamcon](https://thegoonies.github.io/2021/03/15/nahamconctf-2021-agent-tester-v2/)
 
+  
+### 2022
+  
+- [hongwei : gotm, LINE CTF](https://hong5489.github.io/2022-03-27-linectf2022/#gotm)
+  
+- [r4f705 : 1 truth,2 lies. 1337UP LIVE CTF](https://ctftime.org/writeup/32473)
+  
+- [LazyTitan : Naughty or Nice,HTB CyberSanta](https://github.com/LazyTitan33/CTF-Writeups/blob/main/HTB%20-%20Cyber%20Santa%20is%20Coming%20to%20Town%202021/Web/Naughty%20or%20Nice.md)
+  
 </details>
 
 
