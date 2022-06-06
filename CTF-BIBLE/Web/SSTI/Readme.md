@@ -132,6 +132,13 @@
 - [r4f705 : 1 truth,2 lies. 1337UP LIVE CTF](https://ctftime.org/writeup/32473)
   
 - [LazyTitan : Naughty or Nice,HTB CyberSanta](https://github.com/LazyTitan33/CTF-Writeups/blob/main/HTB%20-%20Cyber%20Santa%20is%20Coming%20to%20Town%202021/Web/Naughty%20or%20Nice.md)
+
+- [Kashmir54 : Hey-Buddy, VishwaCTF](https://kashmir54.github.io/ctfs/VishwaCTF2022/#hey-buddy)
+  
+- [x-c-3 : Mr 0, PatriotCTF](https://x-c-3.github.io/posts/patriotctf-2022/#mr-o)
+
+- [SamXML : Deafcon, Nahamcon](https://ctftime.org/writeup/33440)
+ 
   
 </details>
 
