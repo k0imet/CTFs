@@ -8,7 +8,7 @@
 
 - [Web](./Web)
 
-- [Forensics](./forensics)
+- [Forensics](./Forensics)
 
 - [pwn](./pwn)
 
