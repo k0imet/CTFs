@@ -143,6 +143,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Toast Clicker2, BsidesSF](https://ctftime.org/writeup/18524)
 * [Toast Clicker3, BsidesSF](https://ctftime.org/writeup/18525)
 * [GreatSuccess, Appsec-IL](https://ctftime.org/writeup/24406)
+* [Pinocchio, Hacktivity](https://ctftime.org/writeup/22754)
   
 
 ### 2019
