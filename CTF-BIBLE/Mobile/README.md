@@ -119,6 +119,10 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [HeyIamAB, TamilCTF](https://github.com/goseungduk/CTF_WriteUp/tree/master/Tamil_2021/rev/HeyImAB)
 * [Reactor, Hacktivity](https://ctftime.org/writeup/30345)
 * [ToDo ,Hacktivity](https://github.com/piyagehi/CTF-Writeups/blob/main/2021-HacktivityCon-CTF/09-ToDo.md)
+* [Microscopium, Nahamcon](https://ctftime.org/writeup/26493)
+* [Resourceful, Nahamcon](https://github.com/xnomas/Nahamcon-2021-Writeups/tree/main/Resourceful)
+* [Andra, Nahamcon](https://ctftime.org/writeup/26360)
+* [Inception, CyberSecurityRumble](https://ctftime.org/writeup/24793]
 
 
 ### 2020
