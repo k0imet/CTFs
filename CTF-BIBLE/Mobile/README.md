@@ -122,7 +122,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Microscopium, Nahamcon](https://ctftime.org/writeup/26493)
 * [Resourceful, Nahamcon](https://github.com/xnomas/Nahamcon-2021-Writeups/tree/main/Resourceful)
 * [Andra, Nahamcon](https://ctftime.org/writeup/26360)
-* [Inception, CyberSecurityRumble](https://ctftime.org/writeup/24793]
+* [Inception, CyberSecurityRumble](https://ctftime.org/writeup/24793)
 
 
 ### 2020
@@ -139,6 +139,10 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Android, GoogleCTF](https://ctftime.org/writeup/23953)
 * [Pre-Historic Mario, ALLELS](https://ctftime.org/writeup/23320)
 * [Certified APP, BsidesTLV](https://ctftime.org/writeup/22010)
+* [Toast Clicker1, BsidesSF](https://ctftime.org/writeup/18523)
+* [Toast Clicker2, BsidesSF](https://ctftime.org/writeup/18524)
+* [Toast Clicker3, BsidesSF](https://ctftime.org/writeup/18525)
+* [GreatSuccess, Appsec-IL](https://ctftime.org/writeup/24406)
   
 
 ### 2019
