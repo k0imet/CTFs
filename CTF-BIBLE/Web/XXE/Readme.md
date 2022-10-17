@@ -135,6 +135,8 @@ In some situations, an attacker can escalate an XXE attack to compromise the und
 
 - [Terawiz : special-order-pt2, 0x41414141](https://github.com/terawhiz/CTF-Writeups/blob/main/0x41414141-CTF/web/special-oreder-pt2/README.md#special-order-pt2---490-pts)
 
+- [News Notifier, TamilCTF](https://www.youtube.com/watch?v=Y7sO2vKV9gw)
+
 ### 2022
 
 - [FittyFit, Faust](https://pwnthenope.github.io/writeups/2022/07/10/fittyfit.html)
