@@ -72,6 +72,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## CTF Writeups
 
+* [2022](#2022)
+
 * [2021](#2021)
 
 * [2020](#2020)
@@ -93,6 +95,20 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [2012](#2012)
 
 * [Vulnerable Mobile apps](#Vulnerable-Mobile-apps)
+
+
+### 2022 
+
+* [Mobilize, Nahamcon](https://github.com/evyatar9/Writeups/tree/master/CTFs/2022-NahamCon_CTF/Mobile/Mobilize)
+* [Click_Me, Nahamcon](https://github.com/evyatar9/Writeups/tree/master/CTFs/2022-NahamCon_CTF/Mobile/Click_Me)
+* [OTP_Vault, Nahamcon](https://github.com/evyatar9/Writeups/tree/master/CTFs/2022-NahamCon_CTF/Mobile/OTP_Vault)
+* [Secret_Vault, Nahamcon](https://github.com/evyatar9/Writeups/tree/master/CTFs/2022-NahamCon_CTF/Mobile/Secret_vault)
+* [Gandalf's Interface, 1337UP Live CTF](https://medium.com/@cxzero/1337up-live-intigriti-ctf-2022-f915bec6773)
+* [Herald, Insomni'hack](https://github.com/nikosChalk/ctf-writeups/blob/master/insomnihack2022/herald/README.md)
+* [Andronotes, Insomni'hack](https://github.com/p4-team/ctf/tree/master/2022-01-29-insomnihack/andronotes)
+* [Identify Yourself, Hacky Holidays](https://github.com/Matilda12390/Hacky-Holidays-CTF-Writeups/blob/main/Identify%20Yourself/Writeup.md)
+* [Unlock Train Data, Hacky Holidays](https://ctftime.org/writeup/34762)
+
 
 ### 2021
 
