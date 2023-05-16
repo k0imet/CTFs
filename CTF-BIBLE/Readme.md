@@ -77,7 +77,7 @@ Anything other than the mentioned categories, and the difficulty will always var
 
 - [Vulnhub](https://vulnhub.com)
 
-- [Cyberspace](https://ctf.cyberspace.co.ke)
+- [CTFROOM](https://ctfroom.com)
 
 - [Tryhackme](https://tryhackme.com)
 
